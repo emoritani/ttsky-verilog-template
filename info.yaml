@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "tt_um_example""      # Project title
+  title:        "tt_um_example"      # Project title
   author:       ""      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "A 24-bit counter based LED blinker for student laboratory."      # One line description of what your project does
