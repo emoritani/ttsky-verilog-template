@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+his is a 24-bit counter based LED blinker. The counter increments on each clock cycle and the MSB (bit 23) is connected to uo_out[0] for LED blinking.
 
 ## How to test
 
-Explain how to use your project
+1. After reset, the counter starts incrementing.
+2. Observe uo_out[0] blinking slowly in simulation or on hardware.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None (LED on uo_out[0])
